@@ -1,7 +1,7 @@
 # i6mA-CNN: iR1mA-LSTM: Identifying N1-Methyladenosine Sites in Human Transcriptomes using Attention-based Bi-LSTM
 
 
-#### T. T. T. Do, T.-H. Nguyen-Vo, Q. H. Trinh, P.-U. Nguyen-Hoang, L. Nguyen, and Binh P. Nguyen[B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
+#### T. T. T. Do, T.-H. Nguyen-Vo, Q. H. Trinh, P.-U. Nguyen-Hoang, L. Nguyen, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
 ![alt text](https://github.com/mldlproject/2022-iR1mA-LSTM/blob/main/iR1mA-LSTM_abs0.svg)
 
