@@ -3,7 +3,7 @@
 
 #### T. T. T. Do, T.-H. Nguyen-Vo, Q. H. Trinh, P.-U. Nguyen-Hoang, L. Nguyen, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
-![alt text](https://github.com/mldlproject/2022-iR1mA-LSTM/blob/main/iR1mA-LSTM_abs0.svg)
+![alt text](https://github.com/mldlproject/iR1mA-LSTM/blob/main/iR1mA_LSTM_abs.svg)
 
 ## Motivation
  Methylation is the most frequently occurring epigenetic modification accounting for over 50% of the total modification forms. Among these methylation
