@@ -23,7 +23,7 @@ Source code and data are available upon request.
 
 ## Web-based Application
 - Source 1: [Click here](http://14.231.244.182:5004/)
-- Source 2: [Click here](http://192.168.1.7:5004/)
+- Source 2: [Click here](http://124.197.54.240:5004/)
 
 
 ## Contact 
