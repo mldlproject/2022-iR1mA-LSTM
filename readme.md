@@ -25,5 +25,10 @@ Source code and data are available upon request.
 - Source 1: [Click here](http://124.197.54.240:5004/)
 - Source 2: [Click here](http://14.231.233.168:5004/)
 
+## Citation
+Trang T. T. Do, Thanh-Hoang Nguyen-Vo, Quang H. Trinh, Phuong-Uyen Nguyen-Hoang, Loc Nguyen, Binh P. Nguyen. iR1mA-LSTM: Identifying N1-Methyladenosine 
+Sites in Human Transcriptomes Using Attention-Based Bidirectional Long Short-Term Memory. In: Phuong, N.H., Kreinovich, V. (eds) 
+*Deep Learning and Other Soft Computing Techniques. Studies in Computational Intelligence, vol 1097. Springer, Cham.*. DOI: (10.1007/978-3-031-29447-1_5)[https://link.springer.com/chapter/10.1007/978-3-031-29447-1_5]
+
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)
